@@ -1,0 +1,103 @@
+[
+  {
+    "name": "NIKE AIR FORCE 1",
+    "price": 250.99,
+    "description": "The radiance lives on with the b-ball original. Crossing hardwood comfort with off-court flair, it puts a fresh spin on what you know best: '80s-inspired construction, bold details and nothin'-but-net style..",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/1.jpg"
+      }
+    ],
+    "category": "SHOES",
+    "seller": "Amazon",
+    "stock": 5
+  },
+  {
+    "WRISTIO": null,
+    "name": "Nike Vapor 15 Academy Mercurial Dream Speed",
+    "price": 150.99,
+    "description": "MG Low-Top Football Boot.",
+    "ratings": 3.5,
+    "images": [
+      {
+        "image": "/images/products/2.jpg"
+      }
+    ],
+    "category": "FOOTBALL BOOTS",
+    "seller": "Flipkart",
+    "stock": 9
+  },
+  {
+    "name": "Tatum 2 'Vortex' PF",
+    "price": 499.99,
+    "description": "Bright colours and big energy come together in the Tatum 2 'Vortex'. The lightweight, flexible design was created with energy return in mind and this colourway is all about how Jayson helps energise his team. When you're wearing them on the court, your opponents won't be able to ignore all the moves you make—but that doesn't mean they can stop you from scoring.,
+
+    ",: null,
+    "ratings": 2,
+    "images": [
+      {
+        "image": "/images/products/3.jpg"
+      }
+    ],
+    "category": "Basketball Shoes",
+    "seller": "Ebay",
+    "stock": 9
+  },
+  {
+    "name": "Air Jordan I High G",
+    "price": 599.99,
+    "description": "Feel unbeatable, from the tee box to the final putt. Inspired by one of the most iconic sneakers of all time, the Air Jordan 1 G is an instant classic on the course. With Air cushioning underfoot, a Wings logo on the heel and an integrated traction pattern to help you power through your swing, it delivers all the clubhouse cool of the original AJ1—plus everything you need to play 18 holes in comfort.",
+    "ratings": 4,
+    "images": [
+      {
+        "image": "/images/products/4.jpg"
+      }
+    ],
+    "category": "Men's Golf Shoes",
+    "seller": "Ebay",
+    "stock": 9
+  },
+  {
+    "name": "Nike Pegasus 41",
+    "price": 457.99,
+    "description": "Responsive cushioning in the Pegasus provides an energised ride for everyday road running. Experience lighter-weight energy return with dual Air Zoom units and a ReactX foam midsole. Plus, improved engineered mesh on the upper decreases weight and increases breathability.",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/5.jpg"
+      }
+    ],
+    "category": "Men's Road Running Shoes",
+    "seller": "Ebay",
+    "stock": 9
+  },
+  {
+    "name": "Nike Free Metcon 5",
+    "price": 15.46,
+    "description": "When your workouts wade into the nitty-gritty, the Nike Free Metcon 5 can meet you in the depths, help you dig deep to find that final ounce of force and come out of the other side on a high. It matches style with substance, forefoot flexibility with back-end stability, perfect for flying through a cardio day or enhancing your agility. A revamped upper offers easier entry with a collar made just for your ankle.",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/6.jpg"
+      }
+    ],
+    "category": "Men's Workout Shoes",
+    "seller": "Amazon",
+    "stock": 4
+  },
+  {
+    "name": "Nike SB Force 58",
+    "price": 10.12,
+    "description": "The latest and greatest innovation to hit the streets, the Force 58 gives you the durability of a cupsole with the flexibility of vulcanised shoes. Made from canvas and suede and finished with perforations on the toe, the whole look is infused with heritage basketball DNA.",
+    "ratings": 3,
+    "images": [
+      {
+        "image": "/images/products/5.jpg"
+      }
+    ],
+    "category": "Skate Shoes",
+    "seller": "Ebay",
+    "stock": 6
+  }
+]

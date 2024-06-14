@@ -1,9 +1,13 @@
 # Team09-OG
 Code to implement E Commerce Website
 -- install npm -- start npm 
-
+Server Output Sheet:
 ![WhatsApp Image 2024-06-14 at 12 31 19 PM](https://github.com/Abishek21112004/Team09-OG/assets/172749912/d0b683ce-878a-4107-b2fc-4ea24d143c32)
 
+
+![WhatsApp Image 2024-06-14 at 12 31 18 PM](https://github.com/Abishek21112004/Team09-OG/assets/172749912/247168a0-b649-4950-b542-7124dabe013c)
+
+Website Sample Photos:
 ![WhatsApp Image 2024-06-14 at 12 31 53 PM](https://github.com/Abishek21112004/Team09-OG/assets/172749912/0fcfa337-f438-4c63-9253-ea6a40d28174)
 
 ![WhatsApp Image 2024-06-14 at 12 31 51 PM](https://github.com/Abishek21112004/Team09-OG/assets/172749912/ecd7abcc-e8ed-4a0e-85d0-3d76a38c2eab)
